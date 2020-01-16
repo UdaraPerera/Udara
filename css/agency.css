@@ -189,7 +189,7 @@ header.masterhead {
 }
 
 /* For width 360px and larger: */
-@media only screen and (min-device-width: 375px) {
+@media only screen and (min-device-width: 500px) {
   header.masterhead {
     background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg");
   }
