@@ -185,7 +185,7 @@ header.masthead {
 
 
 /* For width 360px and larger: */
-@media only screen and (min-width: 360px) {
+@media only screen and (min-width: 320px) {
   header.masterhead {
     background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg");
   }
