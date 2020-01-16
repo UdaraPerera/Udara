@@ -182,14 +182,10 @@ header.masthead {
   background-size: cover;
 }
  
-  
-  /* For width smaller than 360px: */
-header.masterhead {
-  background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg");
-}
+
 
 /* For width 360px and larger: */
-@media only screen and (min-device-width: 500px) {
+@media only screen and (min-device-width: 360px) {
   header.masterhead {
     background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg");
   }
