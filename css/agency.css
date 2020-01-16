@@ -183,13 +183,13 @@ header.masthead {
 }
  
   
-  /* For width smaller than 300px: */
+  /* For width smaller than 360px: */
 header.masterhead {
   background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg");
 }
 
-/* For width 300px and larger: */
-@media only screen and (min-width: 300px) {
+/* For width 360px and larger: */
+@media only screen and (min-width: 360px) {
   header.masterhead {
     background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg");
   }
