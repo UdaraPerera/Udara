@@ -176,7 +176,7 @@ header.masthead {
   text-align: center;
   color: white;
   background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg ");
-   background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
@@ -189,7 +189,7 @@ header.masterhead {
 }
 
 /* For width 400px and larger: */
-@media only screen and (min-device-width: 400px) {
+@media only screen and (min-width: 500px) {
   header.masterhead {
     background-image: url("../img/kaleidico-HixzNprXdb4-unsplash (1).jpg");
   }
